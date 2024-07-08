@@ -19,3 +19,7 @@ A Computer Engineering student. I enjoy working on various projects, focusing on
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielulacio&theme=algolia" alt="jaypavasiya" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielulacio&theme=algolia&layout=compact" alt="jaypavasiya" /></p>
 
+
+Credit: [gabrielulacio](https://github.com/gabrielulacio)
+
+Last Edited on: 08/07/2024
