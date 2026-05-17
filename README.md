@@ -87,12 +87,7 @@ Cuando no estoy estructurando bases de datos, mi forma de desconectar es ver fut
 
 <div align="center">
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gabrielulacio&theme=algolia&show_icons=true&hide_border=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielulacio&theme=algolia&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielulacio&theme=algolia&layout=compact&hide_border=true" alt="Top Languages"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielulacio&theme=algolia&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
